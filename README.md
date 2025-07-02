@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Armeekkaur
-- 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning Artificial intelligence
+- 👀 I’m interested in Artificial intelligenceand machine learning
+- 🌱 I’m currently learning Artificial intelligence and machine learning
 - 😄 Pronouns: She/ Her
 <!---
 Armeekkaur/Armeekkaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
